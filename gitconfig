@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = janus.vollmer@gmail.com
+	name = Janus Vollmer
